@@ -1,10 +1,10 @@
 # task--7
 # Support Vector Machines (SVM) - Binary Classification
 
-## 📌 Objective
+## Objective
 Use Support Vector Machines (SVMs) to perform both **linear** and **non-linear classification** on a binary dataset.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - Python
 - Scikit-learn
 - NumPy
